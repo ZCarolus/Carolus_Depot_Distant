@@ -2,4 +2,12 @@
 On va dire que c'est le refrain
 olala un premier couplet yay
 
+<<<<<<< HEAD
+Oh un deuxième couplet de yo la zone, c'est samedi 
+
+encore un refrain
+=======
 Oh un deuxième couplet de yo la zone, c'est samedi soir
+
+couplet
+>>>>>>> couplet
